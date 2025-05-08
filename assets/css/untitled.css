@@ -1,0 +1,13 @@
+.btn-hover-dark {
+  background-color: white;
+  color: black;
+  font-weight: 600;
+  font-family: 'Helvetica Neue', sans-serif;
+  transition: all 0.3s ease;
+}
+
+.btn-hover-dark:hover {
+  background-color: black;
+  color: white;
+}
+
